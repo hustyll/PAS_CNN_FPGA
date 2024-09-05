@@ -10,6 +10,7 @@
 ![image](https://github.com/hustyll/PAS_CNN_FPGA/blob/main/image/%E4%B8%89%E7%BA%A7CIC.png)
 
 仿真波形图：
+![image](https://github.com/hustyll/PAS_CNN_FPGA/blob/main/image/CIC%E4%BB%BF%E7%9C%9F.jpg)
 
 二、用于浓度反演计算的CNN算法的RTL实现
 CNN神经网络通常由卷积层和全连接层构成，单个卷积层包括卷积、激活和池化操作
