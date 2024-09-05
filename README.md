@@ -1,9 +1,15 @@
 该项目主要设计四部分主要内容
 
 一、数据预处理模块
+
 功能：对输入数据降采样、滤波
+
 技术要点：CIC抽取滤波器的RTL设计
+
 结构图：
+![image]
+(https://github.com/hustyll/PAS_CNN_FPGA/blob/main/image/%E4%B8%89%E7%BA%A7CIC.png)
+
 仿真波形图：
 
 二、用于浓度反演计算的CNN算法的RTL实现
