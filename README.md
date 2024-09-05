@@ -19,7 +19,7 @@ CNN神经网络通常由卷积层和全连接层构成，单个卷积层包括�
 
 三、对照组算法模块(正交数字锁相放大算法)
 算法原理框图：
-
+![image](https://github.com/hustyll/PAS_CNN_FPGA/blob/main/image/%E6%95%B0%E5%AD%97%E9%94%81%E7%9B%B8%E6%94%BE%E5%A4%A7%E7%AE%97%E6%B3%95.png)
 波形仿真验证：
 
 
