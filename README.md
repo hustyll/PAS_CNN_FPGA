@@ -18,5 +18,9 @@ CNN神经网络通常由卷积层和全连接层构成，单个卷积层包括�
 
 
 四：基于AXI——stream总线的异步FIFO模块
+
 作用：解决FPGA各模块与PCIE硬核之间的跨时钟域传输问题
+
 仿真图：
+![image]
+(https://github.com/hustyll/PAS_CNN_FPGA/blob/main/image/AXI_FIFO.png)
