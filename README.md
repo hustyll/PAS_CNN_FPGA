@@ -7,8 +7,7 @@
 技术要点：CIC抽取滤波器的RTL设计
 
 结构图：
-![image]
-(https://github.com/hustyll/PAS_CNN_FPGA/blob/main/image/%E4%B8%89%E7%BA%A7CIC.png)
+![image](https://github.com/hustyll/PAS_CNN_FPGA/blob/main/image/%E4%B8%89%E7%BA%A7CIC.png)
 
 仿真波形图：
 
@@ -28,5 +27,6 @@ CNN神经网络通常由卷积层和全连接层构成，单个卷积层包括�
 作用：解决FPGA各模块与PCIE硬核之间的跨时钟域传输问题
 
 仿真图：
-![image]
-(https://github.com/hustyll/PAS_CNN_FPGA/blob/main/image/AXI_FIFO.png)
+![image](https://github.com/hustyll/PAS_CNN_FPGA/blob/main/image/AXI_FIFO.png)
+
+
